@@ -1,9 +1,13 @@
-#Task Management
-##Introduction
+# Task Management
+
+## Introduction
+
 Brief description of the project. Explain what the project is, what it does, and any other relevant information to give an overview to new developers or users.
 
-##Getting Started
-###Prerequisites
+## Getting Started
+
+### Prerequisites
+
 Before you begin, ensure you have met the following requirements:
 
 You have installed Git.
@@ -19,11 +23,11 @@ cd your-repository
 Installing Dependencies
 To install the necessary dependencies, run the following command:
 
-# If using npm
+#### If using npm
 
 npm install
 
-# If using yarn
+#### If using yarn
 
 yarn install
 
@@ -34,11 +38,11 @@ If your project includes a frontend with a proxy setup, you may need to edit the
 ##Running the Project
 To run the project, use the following command:
 
-# If using npm
+#### If using npm
 
 npm start
 
-# If using yarn
+#### If using yarn
 
 yarn start
 This will start the development server and you should be able to view the project in your browser at http://localhost:3000 (or another port if specified).
